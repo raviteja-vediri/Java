@@ -5,7 +5,7 @@ public class StringReverse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      //Using Loop
-		String txt= "Hello World!";
+		String txt= "Hello";
 		String Reversed_txt ="";
 		
 		for(int i =txt.length()-1; i >=0; i--) {
